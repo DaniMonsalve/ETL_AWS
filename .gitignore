@@ -1,4 +1,4 @@
 standalone_admin_password.txt
 airflow.db
 logs/
-dags/_pycache/
+dags/__pycache__/
