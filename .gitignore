@@ -2,3 +2,4 @@ standalone_admin_password.txt
 airflow.db
 logs/
 dags/__pycache__/
+config_api.json
