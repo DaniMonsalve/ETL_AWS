@@ -4,6 +4,8 @@ This repository contains the code for an automated data pipeline that extracts p
 
 The flow of data through the pipeline can be summarized in the following steps:
 
+![ETL_Diagrama_Zillow drawio](https://github.com/user-attachments/assets/1b13603c-345e-4639-accf-284f1a2904bf)
+
 1. **Extract Zillow Data**:
    - The pipeline starts by calling the Zillow API, retrieving property data in JSON format.
   
